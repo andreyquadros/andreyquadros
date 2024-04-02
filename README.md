@@ -1,7 +1,7 @@
 ### Oi! Eu sou Andrey Alencar Quadros 👋
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyquadros/)
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCqWgNys_6wWFweejxwq4F2Q)
+[![](https://img.shields.io/badge/Youtube-7289DA?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCqWgNys_6wWFweejxwq4F2Q)
 
 
 
