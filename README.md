@@ -5,7 +5,7 @@
 
 
 
-![andreyquadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=tokyonight)
+![andreyquadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=synthwave)
 
 ## Tecnologias:
 
