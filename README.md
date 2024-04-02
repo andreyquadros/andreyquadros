@@ -5,7 +5,7 @@
 
 
 
-![AndreyQuadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=tokyonight)
+![AndreyQuadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=highconstrast)
 
 ## Tecnologias:
 
