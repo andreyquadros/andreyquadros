@@ -5,7 +5,7 @@
 
 
 
-![andreyquadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=radical)
+![andreyquadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=merko)
 
 ## Tecnologias:
 
