@@ -5,13 +5,13 @@
 
 
 
-![andreyquadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=dracula)
+![andreyquadros](https://github-readme-stats.vercel.app/api?username=andreyquadros&theme=radical)
 
 ## Tecnologias:
 
 <div style= "display: inline_block"><br/>
   <img align="center" src=https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white alt="Flutter">
-  <img align="center" src=https://img.shields.io/badge/FlutterFlow-blue alt="FlutterFlow">
+  <img align="center" src=https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutterflow&logoColor=white alt="FlutterFlow">
   <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
