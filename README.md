@@ -35,7 +35,7 @@ Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **t
 ## 🇺🇸 English
 
 <p align="center">
-  <img src="banner-en.svg" alt="Andrey Alencar Quadros — We'll figure it out." width="100%" />
+  <img src="banner-en.svg" alt="Andrey Alencar Quadros" width="100%" />
 </p>
 
 ### 👋 About
