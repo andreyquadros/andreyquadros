@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Andrey Alencar Quadros — A gente dá um jeito." width="100%" />
+  <img src="banner.svg" alt="Andrey Alencar Quadros" width="100%" />
 </p>
 
 <p align="center">
