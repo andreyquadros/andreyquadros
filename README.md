@@ -77,4 +77,4 @@ Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **t
 
 ---
 
-<p align="center"><em>“A gente dá um jeito.” &nbsp;·&nbsp; “We'll figure it out.”</em></p>
+<p align="center"><em>“We'll figure it out.”</em></p>
