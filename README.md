@@ -74,7 +74,3 @@ Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **t
   <img src="https://img.shields.io/github/followers/andreyquadros?style=for-the-badge&label=SEGUIDORES&labelColor=08080c&color=3a8f6a&logo=github&logoColor=54b585" alt="Seguidores">
   <img src="https://komarev.com/ghpvc/?username=andreyquadros&style=for-the-badge&label=VISITAS%20%C2%B7%20VIEWS&color=3a8f6a" alt="Visitas no perfil">
 </p>
-
----
-
-<p align="center"><em>“We'll figure it out.”</em></p>
