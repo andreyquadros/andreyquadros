@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Andrey Alencar Quadros — A gente dá um jeito.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="Andrey Alencar Quadros">
   <defs>
     <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#08080c"/>
@@ -19,19 +19,12 @@
   <rect width="1280" height="340" fill="url(#warm)"/>
   <rect x="0" y="0" width="1280" height="2" fill="#54b585" opacity="0.30"/>
 
-  <!-- status -->
-  <circle cx="84" cy="74" r="5" fill="#54b585"/>
-  <text x="100" y="79" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" letter-spacing="2.5" fill="#54b585">DISPONÍVEL PARA NOVOS PROJETOS</text>
+  <circle cx="84" cy="108" r="5" fill="#54b585"/>
+  <text x="100" y="113" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="15" letter-spacing="2.5" fill="#54b585">DISPONÍVEL PARA NOVOS PROJETOS</text>
 
-  <!-- name -->
-  <text x="80" y="172" font-family="Fraunces,Georgia,'Times New Roman',serif" font-size="66" font-weight="600" fill="#f4ede4">Andrey Alencar Quadros</text>
+  <text x="80" y="202" font-family="Fraunces,Georgia,'Times New Roman',serif" font-size="66" font-weight="600" fill="#f4ede4">Andrey Alencar Quadros</text>
 
-  <!-- accent rule -->
-  <rect x="82" y="196" width="120" height="3" rx="1.5" fill="#54b585"/>
+  <rect x="82" y="226" width="120" height="3" rx="1.5" fill="#54b585"/>
 
-  <!-- tagline -->
-  <text x="80" y="246" font-family="Fraunces,Georgia,serif" font-style="italic" font-size="30" fill="rgba(244,237,228,0.82)">“A gente dá um jeito.”</text>
-
-  <!-- roles -->
-  <text x="80" y="298" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="17" letter-spacing="0.5" fill="rgba(244,237,228,0.55)">Desenvolvedor Flutter<tspan fill="#3a8f6a">  ·  </tspan>Especialista em IA<tspan fill="#3a8f6a">  ·  </tspan>Escritor<tspan fill="#3a8f6a">  ·  </tspan>Teólogo<tspan fill="#3a8f6a">  ·  </tspan>Professor</text>
+  <text x="80" y="278" font-family="'JetBrains Mono','SF Mono',Consolas,monospace" font-size="17" letter-spacing="0.5" fill="rgba(244,237,228,0.55)">Desenvolvedor Flutter<tspan fill="#3a8f6a">  ·  </tspan>Especialista em IA<tspan fill="#3a8f6a">  ·  </tspan>Escritor<tspan fill="#3a8f6a">  ·  </tspan>Teólogo<tspan fill="#3a8f6a">  ·  </tspan>Professor</text>
 </svg>
