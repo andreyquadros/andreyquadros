@@ -8,11 +8,17 @@
   <a href="https://www.youtube.com/channel/UCqWgNys_6wWFweejxwq4F2Q"><img src="https://img.shields.io/badge/YouTube-0e0e14?style=for-the-badge&logo=youtube&logoColor=54b585" alt="YouTube"></a>
 </p>
 
+<p align="center">
+  <a href="#-português">🇧🇷 Português</a> &nbsp;·&nbsp; <a href="#-english">🇺🇸 English</a>
+</p>
+
 ---
+
+## 🇧🇷 Português
 
 ### 👋 Sou
 
-Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **teólogo** e **professor**. Cientista da Computação pela **Universidade Federal de Mato Grosso (UFMT)** e **Mestre em Propriedade Intelectual e Transferência de Tecnologia**. Filho de Deus, esposo da Julia, pai do Mathias.
+Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **teólogo** e **professor**. Cientista da Computação pela **Universidade Federal de Mato Grosso (UFMT)** e **Mestre em Propriedade Intelectual e Transferência de Tecnologia pelo PROFNIT/IFRO**. Filho de Deus, esposo da Julia, pai do Mathias.
 
 📍 Ariquemes, RO — Brasil &nbsp;·&nbsp; 🌐 [andreyquadros.com.br](http://andreyquadros.com.br/)
 
@@ -24,7 +30,31 @@ Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **t
 - 🎓 **Ensino** como professor
 - ⛓️ **Web3** — explorando Solana e certificados on-chain
 
-### 🛠️ Tecnologias
+---
+
+## 🇺🇸 English
+
+<p align="center">
+  <img src="banner-en.svg" alt="Andrey Alencar Quadros — We'll figure it out." width="100%" />
+</p>
+
+### 👋 About
+
+**Flutter** developer and **AI** specialist — also a **writer**, **theologian** and **professor**. Computer Scientist (**UFMT**) with a **Master's in Intellectual Property &amp; Technology Transfer — PROFNIT/IFRO**. Child of God, husband to Julia, father to Mathias.
+
+📍 Ariquemes, RO — Brazil &nbsp;·&nbsp; 🌐 [andreyquadros.com.br](http://andreyquadros.com.br/)
+
+### ⚡ What I do
+
+- 📱 **Mobile apps** with Flutter & Dart
+- 🤖 **Applied AI** for products, automation and experiences
+- ✍️ **Writing** — books and content
+- 🎓 **Teaching** as a professor
+- ⛓️ **Web3** — exploring Solana and on-chain certificates
+
+---
+
+### 🛠️ Tecnologias · Tech
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-0e0e14?style=for-the-badge&logo=flutter&logoColor=54b585" alt="Flutter">
@@ -36,15 +66,15 @@ Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **t
   <img src="https://img.shields.io/badge/GitHub-0e0e14?style=for-the-badge&logo=github&logoColor=54b585" alt="GitHub">
 </p>
 
-<sub>Explorando atualmente: Next.js · TypeScript · Solana / Web3</sub>
+<sub>Explorando · Exploring: Next.js · TypeScript · Solana / Web3</sub>
 
 ### 📊 GitHub
 
 <p>
   <img src="https://img.shields.io/github/followers/andreyquadros?style=for-the-badge&label=SEGUIDORES&labelColor=08080c&color=3a8f6a&logo=github&logoColor=54b585" alt="Seguidores">
-  <img src="https://komarev.com/ghpvc/?username=andreyquadros&style=for-the-badge&label=VISITAS&color=3a8f6a" alt="Visitas no perfil">
+  <img src="https://komarev.com/ghpvc/?username=andreyquadros&style=for-the-badge&label=VISITAS%20%C2%B7%20VIEWS&color=3a8f6a" alt="Visitas no perfil">
 </p>
 
 ---
 
-<p align="center"><em>“A gente dá um jeito.”</em></p>
+<p align="center"><em>“A gente dá um jeito.” &nbsp;·&nbsp; “We'll figure it out.”</em></p>
