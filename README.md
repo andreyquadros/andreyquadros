@@ -1,50 +1,50 @@
-<h1 align="center">Andrey Alencar Quadros</h1>
-
 <p align="center">
-  <strong>Cientista da Computação · Mestre em Propriedade Intelectual e Transferência de Tecnologia</strong>
-</p>
-<p align="center">
-  Desenvolvedor mobile &amp; web · Pesquisador em inovação e transferência de tecnologia
+  <img src="banner.svg" alt="Andrey Alencar Quadros — A gente dá um jeito." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andreyquadros/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/channel/UCqWgNys_6wWFweejxwq4F2Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="http://andreyquadros.com.br/"><img src="https://img.shields.io/badge/Website-0B5FFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="http://andreyquadros.com.br/"><img src="https://img.shields.io/badge/Site-andreyquadros.com.br-0e0e14?style=for-the-badge&logo=googlechrome&logoColor=54b585" alt="Site"></a>
+  <a href="https://www.linkedin.com/in/andreyquadros/"><img src="https://img.shields.io/badge/LinkedIn-0e0e14?style=for-the-badge&logo=linkedin&logoColor=54b585" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/channel/UCqWgNys_6wWFweejxwq4F2Q"><img src="https://img.shields.io/badge/YouTube-0e0e14?style=for-the-badge&logo=youtube&logoColor=54b585" alt="YouTube"></a>
 </p>
 
 ---
 
-### 👋 Sobre mim
+### 👋 Sou
 
-Cientista da Computação formado pela **Universidade Federal de Mato Grosso (UFMT)** e **Mestre em Propriedade Intelectual e Transferência de Tecnologia**. Desenvolvo aplicações **mobile e web**, unindo a prática de engenharia de software a uma base acadêmica sólida em inovação, pesquisa e transferência de tecnologia.
+Desenvolvedor **Flutter** e especialista em **IA** — também **escritor**, **teólogo** e **professor**. Cientista da Computação pela **Universidade Federal de Mato Grosso (UFMT)** e **Mestre em Propriedade Intelectual e Transferência de Tecnologia**. Filho de Deus, esposo da Julia, pai do Mathias.
 
-- 📍 Ariquemes, RO — Brasil
-- 🌐 [andreyquadros.com.br](http://andreyquadros.com.br/)
-- 🎓 Mestrado em Propriedade Intelectual e Transferência de Tecnologia
-- 🔬 Interesses: desenvolvimento mobile, inovação tecnológica e transferência de tecnologia
+📍 Ariquemes, RO — Brasil &nbsp;·&nbsp; 🌐 [andreyquadros.com.br](http://andreyquadros.com.br/)
 
----
+### ⚡ Faço
+
+- 📱 **Apps mobile** com Flutter & Dart
+- 🤖 **IA aplicada** a produtos, automações e experiências
+- ✍️ **Escrevo** — livros e conteúdo
+- 🎓 **Ensino** como professor
+- ⛓️ **Web3** — explorando Solana e certificados on-chain
 
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/FlutterFlow-2F2D8B?style=for-the-badge&logo=flutterflow&logoColor=white" alt="FlutterFlow">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Flutter-0e0e14?style=for-the-badge&logo=flutter&logoColor=54b585" alt="Flutter">
+  <img src="https://img.shields.io/badge/FlutterFlow-0e0e14?style=for-the-badge&logo=flutterflow&logoColor=54b585" alt="FlutterFlow">
+  <img src="https://img.shields.io/badge/Dart-0e0e14?style=for-the-badge&logo=dart&logoColor=54b585" alt="Dart">
+  <img src="https://img.shields.io/badge/Android%20Studio-0e0e14?style=for-the-badge&logo=androidstudio&logoColor=54b585" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Firebase-0e0e14?style=for-the-badge&logo=firebase&logoColor=54b585" alt="Firebase">
+  <img src="https://img.shields.io/badge/Git-0e0e14?style=for-the-badge&logo=git&logoColor=54b585" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-0e0e14?style=for-the-badge&logo=github&logoColor=54b585" alt="GitHub">
 </p>
 
-**Explorando atualmente:** Next.js · TypeScript · Web3 (Solana)
-
----
+<sub>Explorando atualmente: Next.js · TypeScript · Solana / Web3</sub>
 
 ### 📊 GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreyquadros&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyquadros&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages">
+<p>
+  <img src="https://img.shields.io/github/followers/andreyquadros?style=for-the-badge&label=SEGUIDORES&labelColor=08080c&color=3a8f6a&logo=github&logoColor=54b585" alt="Seguidores">
+  <img src="https://komarev.com/ghpvc/?username=andreyquadros&style=for-the-badge&label=VISITAS&color=3a8f6a" alt="Visitas no perfil">
 </p>
+
+---
+
+<p align="center"><em>“A gente dá um jeito.”</em></p>
